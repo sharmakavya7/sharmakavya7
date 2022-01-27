@@ -1,16 +1,42 @@
-## Hey! It's Kavya here 👋
-I am Full Stack Web Developer, actually focusing a lot on blockchain development 
-
--  Learning and Developing Blockchain based projects in Solidity + React.js.
--  Exploring technologies that I consider interesting.
--  Go for a walk when I'm bored.
-
-## My GitHub Stats -
-  
-  ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=sharmakavya7&hide=contribs,prs)  
+## Hey! It's Kavya here 👋 </br>
+<a href="https://www.linkedin.com/in/kavyasharma711/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/kavya_sharma_7/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://leetcode.com/sharmakavya1002/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.codechef.com/users/loser99">
+  <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 </br>
 
-## Tech stack -
+## I am Full Stack Web Developer, actually focusing a lot on blockchain development 
+
+- 🔭 Learning and Developing Blockchain based projects in Solidity + React.js.
+- 🔎 Exploring technologies that I consider interesting.
+- ⚡ I enjoy listening music 🎧 and traveling 🏝️🗻.
+
+## Languages used:
+  
+  <a href="https://github.com/sharmakavya7">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmakavya7&theme=light&hide_langs_below=1" />
+</a>
+
+ ## My GitHub Stats:
+ 
+ <details>
+  <summary>:zap: Github Stats</summary>
+   <img align="left" alt="Kavya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharmakavya7&hide=contribs,prs" /> 
+</details>
+<!--  <img align="left" alt="Kavya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharmakavya7" />  -->
+<!--   ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=sharmakavya7&hide=contribs,prs)  -->
+</br> 
+
+
+## Tech stack:
 
 ### Frontend Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,20 +63,19 @@ I am Full Stack Web Developer, actually focusing a lot on blockchain development
 ![Socket.io](https://img.shields.io/badge/socket.io-white?style=for-the-badge&logo=socket.io&logoColor=black)
 
 
-### Tools
+### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-royalblue?style=for-the-badge&logo=Trello&logoColor=white)
 
-## Social Hangouts -
-
-<a href="https://www.linkedin.com/in/kavyasharma711/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/kavya_sharma_7/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</br>
+<!-- ## Social Hangouts: -->
 
 #### Discord: Kavya#2718
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sharmakavya7/count.svg" />
+</p>
+
+
