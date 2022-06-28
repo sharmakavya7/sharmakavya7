@@ -7,10 +7,10 @@
 </a>
 <a href="https://leetcode.com/sharmakavya1002/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+<!--- </a>
 <a href="https://www.codechef.com/users/loser99">
   <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
+</a> --->
 </br>
 
 ## I am Full Stack Web Developer, actually focusing a lot on blockchain development 
