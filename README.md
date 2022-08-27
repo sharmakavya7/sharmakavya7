@@ -1,8 +1,12 @@
 <!--- <a href="#"><img width="48%" height="450" align="right" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" width="400" height="175px"/></a> --->
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 <!--- ## Hey! It's Kavya here 👋 </br> --->
-<h1 align="center"> Hey there, It's Kavya here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>   
+<h1 align="center"> Hey there, It's Kavya here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47n10uc7mchtlaxpegw74hzgzhqx4miyy1o82cq0hh&rid=giphy.gif&ct=g" width="400" height="300"/>
+</div>
 <!--
 <a href="https://leetcode.com/sharmakavya1002/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
@@ -18,7 +22,7 @@
 
 <br/>
 
-## 🙋‍♂️I am Full Stack Web Developer, actually focusing a lot on blockchain development 
+## 🙋‍♂️I am Full Stack Web Developer
 
 - 🔭 🔭 I’m a third year undergrad at Maharaja Surajmal Institute of Technology, Delhi, India.
 - 🌱 I’m currently learning Data Structures and Algorithms.
@@ -65,7 +69,10 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 </a> <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
-
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://soliditylang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/uiwjs/file-icons/63d81cae027521169108efc8a00a64683f9491d1/icon/solidity.svg" alt="solidity" width="40" height="40"/> </a>
+<a href="https://metamask.io/" target="_blank"> <img src="https://vectorwiki.com/images/ccHxn__metamask.svg" alt="metamask" width="40" height="40"/> </a>
+</a> <a href="https://ethereum.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg" alt="ethereum" width="100" height="40"/> </a>
 
 <!-- ### Backend Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -104,20 +111,17 @@
 
 <a href = "https://www.linkedin.com/in/kavyasharma711/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/kavya_yaaaar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://discord.com/"><img width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/></a>  
 
 ### Coding profiles: 
+
+<p align="left">
+<a href="https://www.leetcode.com/sharmakavya1002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmakavya1002" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sharmakavya1002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmakavya1002" height="30" width="40" /></a>
 <a href="https://binarysearch.com/@/iamkavya7">
-  <img alt="binarysearch" width="22px" src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=binance&logoColor=white" />
-  &nbsp;
-<a href="https://leetcode.com/sharmakavya1002/">
-  <img alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-  &nbsp;
-<a href="https://auth.geeksforgeeks.org/user/sharmakavya1002/practice">
-  <img alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
-  &nbsp;
-
-
-#### Discord: Kavya#2718  
+  <img alt="binarysearch" width="100px" src="https://img.shields.io/badge/binarysearch-blue?style=for-the-badge&logo=binance&logoColor=white" />
+  &nbsp; </a>
+</p>
 
 <p align="center"> 
   Visitor count<br>
