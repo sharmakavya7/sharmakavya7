@@ -37,7 +37,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmakavya7&show_icons=true&locale=en" alt="sharmakavya7"/></p>
 
-<p align="center">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/sharmakavya1002?theme=light,unicorn" alt="sharmakavya7"/></p>
+<p align="center">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/sharmakavya1002?theme=light,unicorn" alt="sharmakavya1002"/></p>
 
 
  <details>
