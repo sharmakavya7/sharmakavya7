@@ -1,56 +1,78 @@
-## Hey! It's Kavya here 👋 </br>
-<a href="https://www.linkedin.com/in/kavyasharma711/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<!--- <a href="#"><img width="48%" height="450" align="right" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" width="400" height="175px"/></a> --->
 
+<!--- ## Hey! It's Kavya here 👋 </br> --->
+<h1 align="center"> Hey there, It's Kavya here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>   
+
+<!--
 <a href="https://leetcode.com/sharmakavya1002/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   
 <a href="https://auth.geeksforgeeks.org/user/sharmakavya1002/practice">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
-
-<a href="https://www.instagram.com/kavya_sharma_7/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+  -->
 
 <!--- </a>
 <a href="https://www.codechef.com/users/loser99">
   <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a> --->
-</br>
 
-## I am Full Stack Web Developer, actually focusing a lot on blockchain development 
+<br/>
 
-- 🔭 Learning and Developing Blockchain based projects in Solidity + React.js.
+## 🙋‍♂️I am Full Stack Web Developer, actually focusing a lot on blockchain development 
+
+- 🔭 🔭 I’m a third year undergrad at Maharaja Surajmal Institute of Technology, Delhi, India.
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 🔎 Exploring technologies that I consider interesting.
 - ⚡ I enjoy listening music 🎧 and traveling 🏝️🗻.
 
-## Languages used:
-  
-  <a href="https://github.com/sharmakavya7">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmakavya7&theme=light&hide_langs_below=1" />
-</a>
+## 📊My GitHub Stats:
+<br/>
+<p align="center">
+    <a href="https://github.com/sharmakavya7/github-readme-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmakavya7&" alt="sharmakavya7" /></a>
+</p>
 
- ## My GitHub Stats:
- 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmakavya7&show_icons=true&locale=en" alt="sharmakavya7"/></p>
+
+<p align="center">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/sharmakavya1002?theme=light,unicorn" alt="sharmakavya7"/></p>
+
+
  <details>
-  <summary>:zap: Github Stats</summary>
-   <img align="left" alt="Kavya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharmakavya7&hide=contribs,prs" /> 
+  <summary>:zap: Most used languages</summary>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmakavya7&show_icons=true&locale=en&layout=compact" alt="sharmakavya7" /> 
 </details>
 <!--  <img align="left" alt="Kavya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharmakavya7" />  -->
 <!--   ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=sharmakavya7&hide=contribs,prs)  -->
-</br> 
+
+<!--
+<p align = "center">&nbsp;
+    <a href="https://github.com/sharmakavya7"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmakavya7&show_icons=true&locale=en&layout=compact" alt="sharmakavya7" /></a> 
+</p> -->
+
+## 👨‍💻Tech stack and Languages used:
+
+<!-- ### Frontend Web Development -->
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+</a> <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
 
 
-## Tech stack:
-
-### Frontend Web Development
+<!-- ### Backend Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Backend Web Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
@@ -73,11 +95,29 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-royalblue?style=for-the-badge&logo=Trello&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-royalblue?style=for-the-badge&logo=Trello&logoColor=white) -->
 
-<!-- ## Social Hangouts: -->
 
-#### Discord: Kavya#2718
+
+## Social Hangouts:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/kavyasharma711/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/kavya_yaaaar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+### Coding profiles: 
+<a href="https://binarysearch.com/@/iamkavya7">
+  <img alt="binarysearch" width="22px" src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=binance&logoColor=white" />
+  &nbsp;
+<a href="https://leetcode.com/sharmakavya1002/">
+  <img alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  &nbsp;
+<a href="https://auth.geeksforgeeks.org/user/sharmakavya1002/practice">
+  <img alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+  &nbsp;
+
+
+#### Discord: Kavya#2718  
 
 <p align="center"> 
   Visitor count<br>
