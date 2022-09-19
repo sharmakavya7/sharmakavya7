@@ -118,6 +118,7 @@
 <p align="left">
 <a href="https://www.leetcode.com/sharmakavya1002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmakavya1002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sharmakavya1002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmakavya1002" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kavya_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kavya_99" height="30" width="40" /></a>
 <a href="https://binarysearch.com/@/iamkavya7">
   <img alt="binarysearch" width="100px" src="https://img.shields.io/badge/binarysearch-blue?style=for-the-badge&logo=binance&logoColor=white" />
   &nbsp; </a>
